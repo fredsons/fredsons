@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de sistemas** na <a href="https://www.uninove.br/">Uninove</a>.
-- 🌱 &nbsp; Aprendendo mais sobre ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react).
+- 🌱 &nbsp; Aprendendo  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react).
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
