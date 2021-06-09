@@ -27,11 +27,6 @@
 
 <br/>
 
-<a href="https://github.com/fredsons">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsons&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
