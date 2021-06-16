@@ -38,8 +38,6 @@
 [![GitHub Fredson]( https://img.shields.io/github/followers/fredsons?label=follow&style=social)](https://github.com/fredsons)
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=fredsons&theme=dracula)](https://github.com/fredsons/)
-[![fredsons](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsons&hide=html&layout=compact&theme=dracula)](https://github.com/fredsons/)
 
 
 <!---
