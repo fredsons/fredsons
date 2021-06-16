@@ -39,7 +39,7 @@
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=fredsons&theme=dracula)](https://github.com/fredsons/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsons&hide=html&layout=compact&theme=dracula)](https://github.com/fredsons/)
+[![fredsons](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsons&hide=html&layout=compact&theme=dracula)](https://github.com/fredsons/)
 
 
 <!---
