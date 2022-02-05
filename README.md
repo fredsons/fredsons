@@ -1,7 +1,7 @@
 
 <h3> 👨‍💼: &nbsp;Sobre mim </h3>
 
-- 🤔 Profissional cursando Analise e Desenvolvimento de sistemas, 
+- 🤔 Cursando Analise e Desenvolvimento de sistemas, 
 -  Experiência profissional em Análise de sistemas (Suporte), 
 -  Conhecimento em HTML, CSS3, JavaScript, SQL Sever, noções em React, e inglês básico.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de sistemas** na <a href="https://www.uninove.br/">Uninove</a>.
