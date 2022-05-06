@@ -36,7 +36,7 @@
 
 [![Linkedin: Fredson Pereira](https://img.shields.io/badge/-Fredson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredson-pereira/)](https://www.linkedin.com/in/fredson-pereira/)
 [![Gmail Badge](https://img.shields.io/badge/-fredsonpsousa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredsonpsousa@gmail.com)](mailto:fredsonpsousa@gmail.com)
-[![GitHub Fredson]( https://img.shields.io/github/followers/fredsons?label=follow&style=social)](https://github.com/fredsons)
+
 
 
 
