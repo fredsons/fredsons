@@ -2,7 +2,7 @@
 <h3> 👨‍💼 &nbsp;Sobre mim </h3>
  
 -    Experiência profissional em Análise de sistemas (Suporte) 
--    Conhecimento em HTML, CSS3, JavaScript, SQL Sever, noções em React, e inglês básico.
+-    Conhecimento em HTML, CSS3, JavaScript, SQL Severe e noções em React .
 -    Estudando **Análise e Desenvolvimento de sistemas** na <a href="https://www.uninove.br/">Uninove</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -27,7 +27,7 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  
 
 <br/>
 
