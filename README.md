@@ -3,7 +3,7 @@
  
 -    Experiência profissional em Análise de sistemas (Suporte) 
 -    Conhecimento em HTML, CSS3, JavaScript, SQL Severe e noções em React .
--    Estudando **Análise e Desenvolvimento de sistemas** na <a href="https://www.uninove.br/">Uninove</a>.
+-    Estudando **Pós-graduação em Análise de dados** na <a href="https://descomplica.com.br/</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
