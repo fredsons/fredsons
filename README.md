@@ -1,4 +1,4 @@
-Claro! Aqui está uma melhoria no README, adicionando os ícones corretos das tecnologias e algumas descrições adicionais:
+
 
 <h3> 👨‍💼 &nbsp;Sobre mim </h3>
  
