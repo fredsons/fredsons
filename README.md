@@ -1,8 +1,15 @@
+Claro! Aqui está uma melhoria no README, adicionando os ícones corretos das tecnologias e algumas descrições adicionais:
+
 <h3> 👨‍💼 &nbsp;Sobre mim </h3>
  
-- Experiência profissional em Análise de sistemas (Suporte) 
-- Conhecimento em HTML, CSS3, JavaScript, SQL Server e noções em React.
-- Estudando **Pós-graduação em Análise e Desenvolvimento de Sistemas** na <a href="https://descomplica.com.br">Descomplica</a>.
+- Experiência profissional em Análise de sistemas (Suporte).
+- Conhecimento em desenvolvimento web utilizando as seguintes tecnologias:
+  - HTML5: Linguagem de marcação para estruturar e apresentar o conteúdo na web.
+  - CSS3: Linguagem de estilo para definir a aparência e o layout dos elementos HTML.
+  - JavaScript: Linguagem de programação para adicionar interatividade e comportamento aos sites.
+  - SQL Server: Banco de dados relacional utilizado para armazenar e gerenciar os dados.
+  - React: Biblioteca JavaScript para construir interfaces de usuário reativas e eficientes.
+- Atualmente, estou estudando **Pós-graduação em Análise e Desenvolvimento de Sistemas** na <a href="https://descomplica.com.br">Descomplica</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -13,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 **DevOps**
