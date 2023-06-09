@@ -32,7 +32,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ## :earth_americas: Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/fredson-pereira/)
-- [E-mail](mailto:fredsonpsousa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredson-pereira/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fredsonpsousa@gmail.com)
 
 Seja bem-vindo ao meu perfil! Aqui você encontrará informações sobre minha experiência profissional e minhas habilidades em desenvolvimento web. Sinta-se à vontade para entrar em contato comigo por meio do LinkedIn ou do meu e-mail. Vamos nos conectar e trabalhar juntos em projetos incríveis! 😄
