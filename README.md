@@ -21,6 +21,9 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
+## :chart_with_upwards_trend: Métricas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsons&layout=compact&theme=dark)
+
 **DevOps**
 <br>
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
