@@ -2,7 +2,7 @@
 
 ## 👨‍💼 Sobre mim
 - Sou um profissional com experiência em Análise de Sistemas e suporte técnico.
-- Atualmente, estou cursando Pós-graduação em Análise e Desenvolvimento de Sistemas na Descomplica.
+- Atualmente Pós-graduado em Análise e Desenvolvimento de Sistemas.
 - Tenho conhecimento em desenvolvimento web utilizando as seguintes tecnologias:
   - HTML5: Linguagem de marcação para estruturar e apresentar o conteúdo na web.
   - CSS3: Linguagem de estilo para definir a aparência e o layout dos elementos HTML.
