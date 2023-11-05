@@ -30,8 +30,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-## :chart_with_upwards_trend: Métricas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsons&layout=compact&theme=dark)
 
 ## :earth_americas: Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredson-pereira/)
