@@ -19,7 +19,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 
 **DevOps**
 <br>
@@ -30,7 +29,7 @@
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 
 ## :earth_americas: Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredson-pereira/)
