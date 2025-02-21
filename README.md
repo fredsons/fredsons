@@ -1,14 +1,13 @@
 # <img src="https://avatars.githubusercontent.com/u/78954555?s=200&v=4" alt="Logo" width="50" height="50" /> Bem-vindo ao meu perfil!
 
 ## 👨‍💼 Sobre mim
-- Sou um profissional com experiência em Análise de Sistemas e suporte técnico.
-- Atualmente Pós-graduado em Análise e Desenvolvimento de Sistemas.
-- Tenho conhecimento em desenvolvimento web utilizando as seguintes tecnologias:
-  - HTML5: Linguagem de marcação para estruturar e apresentar o conteúdo na web.
-  - CSS3: Linguagem de estilo para definir a aparência e o layout dos elementos HTML.
-  - JavaScript: Linguagem de programação para adicionar interatividade e comportamento aos sites.
-  - SQL Server: Banco de dados relacional utilizado para armazenar e gerenciar os dados.
-  - React: Biblioteca JavaScript para construir interfaces de usuário reativas e eficientes.
+Profissional com 3+ anos de experiência em análise e suporte técnico, gestão de incidentes e suporte a sistemas ERP. Tenho conhecimento em SQL Server, realizando consultas e modificações para resolver problemas e otimizar processos.
+
+No desenvolvimento web, utilizo tecnologias como HTML5, CSS3, JavaScript, Bootstrap e WordPress para criar soluções funcionais e responsivas. Além disso, possuo conhecimentos em software e hardware, o que me permite oferecer suporte completo em ambientes corporativos.
+
+Atuo com plataformas de gestão de incidentes como ServiceNow e GLPI, garantindo a resolução ágil de problemas e a conformidade com SLAs.
+
+Sou pós-graduado em Análise e Desenvolvimento de Sistemas e Projetos de Aplicativos Móveis Multiplataformas, o que me permite atuar em projetos desafiadores e colaborar com equipes multidisciplinares.
 
 ## :rocket: Minhas Skills
 
