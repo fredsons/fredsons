@@ -23,25 +23,15 @@ Sou um profissional com **3+ anos de experiência** em análise, suporte técnic
 
 ## 🚀 Tech Stack
 
-### 💻 Linguagens & Frameworks
-<div>
+**💻 Linguagens & Frameworks**
 
-</div>
+**🗄️ Banco de Dados**
 
-### 🗄️ Banco de Dados
-<div>
+**⚙️ DevOps & Versionamento**
 
-</div>
+**🛠️ Ferramentas**
 
-### ⚙️ DevOps & Versionamento
-<div>
-
-</div>
-
-### 🛠️ Ferramentas
-<div>
-
-</div>
+**📋 Gestão de Incidentes**
 
 ---
 
@@ -72,17 +62,13 @@ Sou um profissional com **3+ anos de experiência** em análise, suporte técnic
 
 ---
 
-## 🌐 Vamos nos conectar?
-
-<div align="center">
+## 🌐 Onde me encontrar
 
 [](https://www.linkedin.com/in/fredson-pereira/)
 [](mailto:fredsonpsousa@gmail.com)
 [](https://github.com/fredsons)
 
-</div>
-
-<br>
+---
 
 <div align="center">
 
