@@ -1,37 +1,91 @@
-# <img src="https://avatars.githubusercontent.com/u/78954555?s=200&v=4" alt="Logo" width="50" height="50" /> Bem-vindo ao meu perfil!
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Fredson%20Pereira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas%20%7C%20Desenvolvedor%20Web&descAlignY=58&descAlign=50" />
+
+[](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ## 👨‍💼 Sobre mim
-Profissional com 3+ anos de experiência em análise e suporte técnico, gestão de incidentes e suporte a sistemas ERP. Tenho conhecimento em SQL Server, realizando consultas e modificações para resolver problemas e otimizar processos.
 
-No desenvolvimento web, utilizo tecnologias como HTML5, CSS3, JavaScript, Bootstrap e WordPress para criar soluções funcionais e responsivas. Além disso, possuo conhecimentos em software e hardware, o que me permite oferecer suporte completo em ambientes corporativos.
+Sou um profissional com **3+ anos de experiência** em análise, suporte técnico e desenvolvimento web, com sólida atuação em:
 
-Atuo com plataformas de gestão de incidentes como ServiceNow e GLPI, garantindo a resolução ágil de problemas e a conformidade com SLAs.
+- 🔧 **Suporte & Incidentes:** Gestão de incidentes via **ServiceNow** e **GLPI**, garantindo resolução ágil e conformidade com SLAs.
+- 🗄️ **Banco de Dados:** Consultas e otimizações em **SQL Server** para resolução de problemas e melhoria de processos.
+- 🌐 **Desenvolvimento Web:** Criação de soluções funcionais e responsivas com **HTML5, CSS3, JavaScript, Bootstrap e WordPress**.
+- 🎓 **Formação:** Pós-graduado em **Análise e Desenvolvimento de Sistemas** e **Projetos de Aplicativos Móveis Multiplataformas**.
 
-Sou pós-graduado em Análise e Desenvolvimento de Sistemas e Projetos de Aplicativos Móveis Multiplataformas, o que me permite atuar em projetos desafiadores e colaborar com equipes multidisciplinares.
+> *Comprometido em transformar problemas complexos em soluções simples e eficientes.* 🚀
 
-## :rocket: Minhas Skills
+---
 
-**Linguagens de Programação**
+## 🚀 Tech Stack
+
+### 💻 Linguagens & Frameworks
+<div>
+
+</div>
+
+### 🗄️ Banco de Dados
+<div>
+
+</div>
+
+### ⚙️ DevOps & Versionamento
+<div>
+
+</div>
+
+### 🛠️ Ferramentas
+<div>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsons&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredsons&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Troféus GitHub
+
+<div align="center">
+
+[](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+[](https://www.linkedin.com/in/fredson-pereira/)
+[](mailto:fredsonpsousa@gmail.com)
+[](https://github.com/fredsons)
+
+</div>
+
 <br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-**DevOps**
-<br>
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<div align="center">
 
-**Ferramentas de Desenvolvimento**
-<br>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
+</div>
 
-## :earth_americas: Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredson-pereira/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fredsonpsousa@gmail.com)
-
-Seja bem-vindo ao meu perfil! Aqui você encontrará informações sobre minha experiência profissional e minhas habilidades em desenvolvimento web. Sinta-se à vontade para entrar em contato comigo por meio do LinkedIn ou do meu e-mail. Vamos nos conectar e trabalhar juntos em projetos incríveis! 😄
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer"/>
